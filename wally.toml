@@ -1,5 +1,5 @@
 [package]
-name = "chipioindustries/random-selection"
+name = "grilme99/random-selection"
 description = "A module for selecting a random item from a weighted list."
 version = "1.0.2"
 registry = "https://github.com/UpliftGames/wally-index"
